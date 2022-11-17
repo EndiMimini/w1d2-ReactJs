@@ -1,0 +1,12 @@
+.block {
+    height: 50px;
+    width: 200px;
+    background-color: silver;
+    border: 1px dotted black;
+}
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    border-radius: 50%;
+}
